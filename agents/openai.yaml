@@ -1,0 +1,4 @@
+interface:
+  display_name: "冷启动运营顾问"
+  short_description: "用网络效应诊断社群、平台和协作产品，设计冷启动、扩张与增长实验"
+  default_prompt: "使用 $cold-start-ops 诊断我的业务，识别局部网络与关键瓶颈，并给出可验证的运营行动。"
